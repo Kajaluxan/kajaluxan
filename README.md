@@ -11,7 +11,7 @@ Just a guy in his 20s, powered by pizza and curiosity, trying to untangle his co
 **Computer Science and Engineering Undergraduate at University of Moratuwa, Sri Lanka.**  
 
 - 🌱 I’m currently learning React
-- 📫 How to reach me: kajaluxan2002@gmail.com
+- 📫 How to reach me: kajaluxan.22@cse.mrt.ac.lk
 
 <br/>  
 
