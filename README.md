@@ -48,7 +48,7 @@ Just a guy in his 20s, powered by pizza and curiosity, trying to untangle his co
 ## Github Stats  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kajaluxan&show_icons=true&locale=en&layout=compact" alt="kajaluxan" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kajaluxan&show_icons=true&locale=en" alt="kajaluxan" /></p>
+<!--  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kajaluxan&show_icons=true&locale=en" alt="kajaluxan" /></p>  -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kajaluxan&" alt="kajaluxan" /></p>
 
