@@ -12,6 +12,7 @@ Just a guy in his 20s, powered by pizza and curiosity, trying to untangle his co
 
 - 🌱 I’m currently learning React
 - 📫 How to reach me: kajaluxan.22@cse.mrt.ac.lk
+- 🌐 Portfolio: [Kajaluxan.com](https://kajaluxan.netlify.app/)
 
 <br/>  
 
