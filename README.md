@@ -8,8 +8,9 @@
 </p>
 
 </br>
-🚀 Welcome to my GitHub!  
-                                                                                                            
+
+
+## 🚀 Welcome to my GitHub!  
 Just a guy in his 20s, powered by pizza and curiosity, trying to untangle his code, his path, and the mysteries of life — often discovering the problem was a missing semicolon all along. Debugging his projects and his purpose, one slice at a time.  
 
 **Computer Science and Engineering Undergraduate at University of Moratuwa, Sri Lanka.**  
