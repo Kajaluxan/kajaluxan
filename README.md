@@ -1,9 +1,13 @@
-## <div align="center">Hey 👋, I'm Kajaluxan!</div>  
-
+<h1 align="center">Hey 👋, I'm Kajaluxan!</h1>
 <p> 
   <img src="https://komarev.com/ghpvc/?username=Kajaluxan&label=Profile%20views&color=0e75b6&style=flat-square" alt="Kajaluxan" />
 </p>  
 
+<p align="center">
+  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="200" alt="AI Developer">
+</p>
+
+</br>
 🚀 Welcome to my GitHub!  
                                                                                                             
 Just a guy in his 20s, powered by pizza and curiosity, trying to untangle his code, his path, and the mysteries of life — often discovering the problem was a missing semicolon all along. Debugging his projects and his purpose, one slice at a time.  
